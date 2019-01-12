@@ -1,4 +1,5 @@
 # 15statusEKF-NAV
-15状态量的EKF IMU/GPS组合导航算法
 
-这是一个基于EKF的IMU/GPS组合导航算法
+This is an EKF-based IMU/GPS integrated navigation algorithm used to estimating the attitude, velocity, and position of the vehicle. The dataset is from the flight log of the PX4 project.
+
+run the Run15stateNavEKF.m script
