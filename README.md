@@ -5,3 +5,7 @@ This is an integrated navigation algorithm with EKF used to estimating the attit
 run the Run15stateNavEKF.m script
 
 ![ad](https://github.com/XieYihang/15statusEKF-NAV/blob/master/15statusNavEKF/att.jpg)
+
+![ad](https://github.com/XieYihang/15statusEKF-NAV/blob/master/15statusNavEKF/vel.jpg)
+
+![ad](https://github.com/XieYihang/15statusEKF-NAV/blob/master/15statusNavEKF/pos.jpg)
